@@ -1,6 +1,11 @@
+If you use this or like my work, then feel free to use patreon: https://www.patreon.com/stigatle
+
+Also follow me on twitter for development stuff: https://twitter.com/stigatle
+
 # simple_python_cpp_module
 A simple example on how to make a c++ module that can be used in python.
 I wanted to make the easiest type of module so that I then could use it in blender.
+
 
 Build on windows:
 ```
